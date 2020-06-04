@@ -3,7 +3,7 @@
 This install is a secure deployment of RedHat OpenShift on Azure. The deployment is unique as its automated and has hardening baked-in.
 
 ## Prerequisities
-* Download az-cli
+* Download [az-cli]()
 
 ## Steps
 * Change between lines 5-25 of parameters in deploy-vars.ps1
